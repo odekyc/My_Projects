@@ -27,19 +27,32 @@ Constraints
 Sample Input
 
 4
+
 1
+
 3
+
 5
+
 11
+
 Sample Output
 
 -1
-555
-33333
-55555533333
-Explanation
-For N=1, there is no such number.
-For N=3, 555 is the only possible number.
-For N=5, 33333 is the only possible number.
-For N=11, 55555533333 and all permutations of these digits are valid numbers; among them, the given number is the largest one.
 
+555
+
+33333
+
+55555533333
+
+Explanation
+
+For N=1, there is no such number.
+
+For N=3, 555 is the only possible number.
+
+For N=5, 33333 is the only possible number.
+
+For N=11, 55555533333 and all permutations of these 
+digits are valid numbers; among them, the given number is the largest one.
