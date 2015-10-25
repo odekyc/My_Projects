@@ -28,16 +28,25 @@ If a student enters the class exactly when it starts (ai=0), the student is cons
 
 Sample Input
 
+
 2
+
 4 3
+
 -1 -3 4 2
+
 4 2
+
 0 -1 2 1
+
 Sample Output
 
 YES
+
 NO
+
 Explanation
+
 
 For the first test case, K=3, i.e., the professor wants at least 3 students to be in class but there are only 2 who have arrived on time (−3 and −1), hence the class gets cancelled.
 
