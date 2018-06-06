@@ -1,4 +1,4 @@
-Hackerrank.com problem
+Hackerrank.com
 Problem Statement
 
 The professor is conducting a course on Discrete Mathematics to a class of N students. He is angry at the lack of their discipline, and he decides to cancel the class if there are fewer than K students present after the class starts.
