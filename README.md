@@ -1,2 +1,1 @@
-# My_Projects
-All the python projects I've done
+All the Python3 Arithmetic Challenges I've done
